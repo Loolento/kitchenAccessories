@@ -1,0 +1,23 @@
+# 不要 commit 嘅嘢
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 大檔
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# 私人嘢
+*.pem
+*.key
+.env
+.env.local
+
+# 暫存
+tmp/
+scratch/
